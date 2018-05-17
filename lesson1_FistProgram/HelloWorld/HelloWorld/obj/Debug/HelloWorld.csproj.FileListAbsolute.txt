@@ -1,0 +1,7 @@
+E:\CSharp\learning_CSharp\lesson1_FistProgram\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+E:\CSharp\learning_CSharp\lesson1_FistProgram\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+E:\CSharp\learning_CSharp\lesson1_FistProgram\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+E:\CSharp\learning_CSharp\lesson1_FistProgram\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+E:\CSharp\learning_CSharp\lesson1_FistProgram\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+E:\CSharp\learning_CSharp\lesson1_FistProgram\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+E:\CSharp\learning_CSharp\lesson1_FistProgram\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
